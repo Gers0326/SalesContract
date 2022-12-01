@@ -1,0 +1,17 @@
+{
+  "name": "Taller_2_SCERT-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "@truffle/contract": "^4.6.8",
+    "bootstrap": "^5.2.3",
+    "lite-server": "^2.6.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
